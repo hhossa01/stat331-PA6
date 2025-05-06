@@ -1,9 +1,8 @@
 ---
 title: "Practice Activity 6"
-author: Hailey Hossain, Ashley Navos, Vinithra Seshan
 format: html
 editor: visual
-author: Ashley, Hailey, Vinithra
+author: Hailey Hossain, Ashley Navos, Vinithra Seshan
 ---
 
 ## Quarto
