@@ -2,6 +2,10 @@
 title: "Practice Activity 6"
 format: html
 editor: visual
+<<<<<<< HEAD
+=======
+author: Hailey, Ashley, Vinithra
+>>>>>>> 8db0788097225fafd652709d772edf1a641ad2d9
 embed-resources: true
 ---
 
