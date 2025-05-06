@@ -2,6 +2,7 @@
 title: "Practice Activity 6"
 format: html
 editor: visual
+author: Ashley, Hailey, Vinithra
 ---
 
 ## Quarto
